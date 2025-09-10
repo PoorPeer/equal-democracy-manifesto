@@ -64,9 +64,9 @@ Everyone has an equal say, and participation will be simple, educational, and re
 
 ### Resistance from Representative Democracy
 
-Surprisingly, the internet has not already improved our democracy, but the current representative democracy (RD) has shown no interest in it. Representation is based on power being transferred from voters to elected officials. Ever since the Roman Empire, representation has been used to legitimize class divisions, and we still retain this function in politics.
+Surprisingly, the internet has not already improved our democracy, but the current representative democracy (RD) has shown no interest in it. Representation is based on power being transferred from voters to elected officials. Ever since the Roman Empire, representation has been used to legitimize class divisions, and this function remains in politics.
 
-The criticism is not directed at those in power but at the inherent divisions in RD. The physical confinement of a room is a natural barrier that maintains the difference between voters and the elected, a barrier that digital democracy challenges. Historical development mocks all who try to escape elite rule, as Michels argued. ED intends to prove him wrong. It is possible to eliminate positions of power.
+The criticism is not directed at those in power but at the inherent divisions in RD. The physical confinement of a room is a natural barrier that maintains the division between voters and the elected, a barrier that digital democracy challenges. Historical development mocks all who try to escape elite rule, as Robert Michels argued. ED intends to prove him wrong. It is possible to eliminate positions of power.
 
 ### A Comparative Table
 

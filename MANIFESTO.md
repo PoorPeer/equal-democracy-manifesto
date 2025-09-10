@@ -1,6 +1,6 @@
 # The world is broken. It's time to fix it!
 
-## A Call for an Equal Revolution!
+## A Call for an Equal (R)Evolution!
 
 Rising temperatures, oceans choked with plastic, headlines screaming about war, suffering, and injustice. We face mass extinction, crop failures, and the threat of nuclear war that could wipe out all life in an afternoon.
 
@@ -100,8 +100,7 @@ Everyone has the right each year to:
 * Rank an unlimited number of specific issues.
 * Debate and vote on one specific issue.
 * Submit a budget proposal using the budget calculator.
-* Debate and vote on one internal issue.
-* Freely choose which discussion (3) and which votes (5, 7) they wish to participate in.
+* Freely choose which issue they wish to discuss and vote on.
 
 These rights give everyone equal influence, while ensuring no one is overburdened.
 
@@ -109,13 +108,13 @@ These rights give everyone equal influence, while ensuring no one is overburdene
 
 The ED app has a reward system to increase engagement. The reward system is based on a cryptocurrency called **Pollar**, having the same value as USD. It can encourage activity, motivate volunteers, reward brilliant new ideas, etc.
 
-Activities like voting or participating in budget meetings are rewarded equally for everyone. Those who contribute beyond that with programming, auditing, or serving as functionaries at local events receive additional piece-rate payments. The best reward goes to those who submit a proposal that solves a real problem. The proposal must then be voted through, implemented, and evaluated with positive results without having other negative side effects. Payouts occur in stages, and collaborators who improve the proposal also share in the profit.
+Activities, like voting or participating in budget meetings, are rewarded equally for everyone. Those who contribute beyond that with programming, auditing, or serving as functionaries at local events receive additional piece-rate payments. The best reward goes to those who submit a proposal that solves a real problem. The proposal must then be voted through, implemented, and evaluated with positive results and no other negative side effects. Payouts occur in stages, and collaborators who improve the proposal also share in the profit.
 
 Pollars require no banks or energy-consuming crypto mining; they function as proof of democratic work. The currency can be used by scanning QR codes with a smartphone. No one will become a billionaire, but everyone gets a little something. Over time, Pollars could develop into a democratically anchored global basic income. To hinder manipulation, extensive AI surveillance of currency flows is conducted to analyze deviations. The reward system is continuously calibrated to maximize utility and minimize the risk of manipulation.
 
 ### Anonymity
 
-In the ED app, there are no identifiable individuals – only proposals, arguments, and judgements. Anonymity is used to hinder manipulation, surveillance, and coalition-building, and to protect participants' privacy so they dare to express their opinions freely. ED reduces the risk of public figures and celebrities gaining undue influence. The app is intended as an intellectual sanctuary where personalities do not influence us, but where rational arguments speak for themselves. The system alerts if anonymous posts violate debate rules.
+In the ED app, there are no identifiable individuals – only proposals, arguments, and judgements. Anonymity is used to counteract manipulation, surveillance, and coalition-building, and to protect participants' privacy, allowing them to express their opinions freely. ED reduces the risk of public figures and celebrities gaining undue influence. The app is intended as an intellectual sanctuary where personalities do not influence us, but where rational arguments speak for themselves, and the strength of the ideas, not the people behind them, makes the difference. The system alerts if anonymous posts violate debate rules.
 
 ### Openness
 
@@ -123,23 +122,23 @@ The ability to counteract corruption is a distinguishing feature of digital demo
 
 ### Global Referendum
 
-The path to global equal democracy goes through a referendum. We want to establish a new political institution governed by the world's citizens via the ED app: a digital and transparent Global Citizens' Council (GCC) with the authority to enact global laws. For the referendum to be binding, a qualified majority should vote yes to the GCC.
+The path to global equal democracy goes through a referendum. We want to establish a new political institution governed by the world's citizens via the ED app: a digital and transparent Global Citizens' Council (GCC) with the authority to enact global laws. For the referendum to be binding, a qualified majority must vote 'yes' to the GCC.
 
 ### Cooperation with the UN and NGOs
 
 If ED votes to establish the Global Citizens' Council (GCC), it will become the second chamber in relation to the UN General Assembly. This people-controlled second chamber will, initially, accelerate the implementation of the UN's 17 Sustainable Development Goals.
 
-The Global Citizens' Council (GCC) supports all non-governmental organizations (NGOs) by giving them more influence in their heart issues. World community organizations can act as executive bodies, but the GCC can also allow the business sector to find solutions for decided actions.
+The Global Citizens' Council (GCC) supports all non-governmental organizations (NGOs) by giving their members more influence on their heart issues. World community organizations can act as executive bodies, but the GCC can also allow companies to offer solutions for decisions taken.
 
 ### Moral Responsibility at the Core
 
-For Equal Democracy (ED) with anonymous participants to be accountable, a simple moral principle lies at its core. Globally, ED initially strives to reduce unnecessary suffering. Morality provides stability and clear direction. It becomes natural to keep morality in mind when addressing various problems. As measures begin to take effect, morality can be democratically changed, and thus ED's fundamental principle can also change. In important internal decisions, such as changes to morality, everyone has the right to vote.
+For Equal Democracy (ED) with anonymous participants to be accountable, a simple moral principle lies at its core. Globally, ED initially strives to reduce unnecessary suffering. Morality provides stability and clear direction. It becomes natural to keep in mind when addressing various problems. As measures begin to take effect, the moral can be democratically changed, and thus, ED's fundamental principle can also change. In important internal decisions, such as moral changes, everyone has the right to vote.
 
 Morality is limited solely to decisions made through ED. Everyone is free to strive for personal happiness and harmony, and this integrity is respected. The individual may define what happiness is and seek their own well-being, provided that this pursuit does not harm others.
 
 ### Demarcation and Subsidiarity
 
-Equal Democracy (ED) follows the principle of subsidiarity. It states that decisions should be made at the lowest effective level. If they can be resolved at the regional or national level, they should be. ED aims to establish itself globally to solve cross-border problems that affect people in multiple countries, such as cybercrime, human rights, or plastic pollution.
+Equal Democracy (ED) strictly follows the principle of subsidiarity. It states that decisions should be made at the lowest effective level. If they can be resolved at the regional or national level, they should be. ED aims to establish itself globally to resolve cross-border problems that affect people in multiple countries, such as cybercrime, human rights, or plastic pollution.
 
 Sometimes, local and global interests can conflict. Morality then provides practical guidance: prioritize reducing suffering and problems affecting many people over those affecting a few.
 
@@ -181,13 +180,13 @@ B. **Proposal Discussion**
 Once a year, people will gather locally for in-person meetings to debate the budget based on needs and the proposal that will be put forward.
 
 C. **Submit Your Own Proposal with Budget Calculator**
-The ED app uses a built-in budget simulator so that everyone can submit a budget proposal. The median of all submitted proposals is adopted as next year's global budget.
+The ED app will have a built-in budget simulator, allowing everyone to submit a budget proposal. The median of all submitted proposals is adopted as next year's global budget.
 
 D. **Internal Decisions**
-In conjunction with the budget vote, important internal issues may arise that require a majority decision. This could involve changes to voting age, new features, adaptation of the moral principles, AI assistance, etc. The purpose is to allow flexibility without risking hijackings.
+In conjunction with the budget vote, important internal issues may arise that require a majority decision. This could involve changes to voting age, new features, adaptation of moral principles, AI assistance, etc. The purpose is to allow flexibility without risking hijackings.
 
 E. **The Winning Budget is Presented**
-The budget process concludes with the presentation of the winning budget proposal. In conjunction with this, ED encourages a global celebration to mark the new budget and the Global community. Immediately after the celebration, the new operational year begins with idea development.
+The budget process concludes with the presentation of the winning budget proposal. In conjunction with this, ED encourages a global celebration to mark the new budget and the Global community. Immediately after the celebration, the next operational year begins with Idea development.
 
 ---
 
@@ -218,7 +217,7 @@ The budget process concludes with the presentation of the winning budget proposa
 
 ### V. Why Equal Democracy (ED) is Needed
 
-* **No Hierarchies:** ED has no traditional power hierarchies. Hierarchy enables centralized control. But a brain controls the body perfectly without being hierarchical. For humanity to govern the world in the Anthropocene, we want to establish the Global Citizens' Council (GCC) — a digital brain from which the world's collective citizens jointly steer the planet like neurons via the internet. Electing the GCC is therefore ED's most important goal. Just as Confucius sought wisdom through consultation, ED is based on the idea that a combination of different intelligences leads to better collective decisions.
+* **No Hierarchies:** ED has no traditional power hierarchies. Where a hierarchy enables centralized control, a distributed brain controls the body perfectly without being hierarchical. For humanity to govern the world in the Anthropocene, we aim to establish the Global Citizens' Council (GCC) as a digital brain, from which the world's collective citizens jointly steer the planet like brain neurons control the body. Electing the GCC is therefore ED's most important goal. Just as Confucius sought wisdom through consultation, ED is based on the idea that a combination of different intelligences leads to better collective decisions.
 
 * **Secure Technology:** Technology is central. ED uses secure digital technology (smartphones, blockchain, AI) to overcome barriers of distance or language. Participants debate anonymously, rank arguments, and vote digitally – securely and transparently. ED uses cryptographic ID checks to ensure that all participants are real, unique individuals.
     * All users must confirm their identity so that each person has one (1) unique vote.
@@ -226,11 +225,9 @@ The budget process concludes with the presentation of the winning budget proposa
     * No one can impose a veto or otherwise hinder the course of democracy.
     * Everyone has the same share of power and influence.
 
-* **Artificial Intelligence (ED-AI):** ED-AI acts as a personal assistant. ED-AI is a discreet, personal helper that makes the app easy to use. It functions as a personal assistant, making it easy to exercise your democratic rights. ED-AI translates posts almost in real-time, checks spelling, compiles information, etc. ED-AI never interferes with our values; it only helps us express them if needed. It is also used in system monitoring to locate and warn about suspicious activities.
+* **Artificial Intelligence (ED-AI):** ED-AI acts as a personal assistant – a discreet, personal helper that makes the app easy to use. To make it easy for you to exercise your democratic rights, ED-AI reminds you, translates posts in real-time, checks spelling, compiles information, etc. ED-AI never interferes with our values; it only helps us express them if needed. Another function is system monitoring and protection against illegal activities.
 
-* **Economic Incentives:** Those who participate in ED are rewarded with digital currency. Pollar is an environmentally friendly token that rewards active participation, increases interest, and stimulates new ideas. The currency can be traded and can serve as an important reserve currency.
-
-* **The Network is a New Form of Democracy:** When decisions are made in digital spaces instead of physical ones, millions of people can participate and vote simultaneously. Digital networks are the prerequisite for creating ED. Decisions are made organically and threaded through a decentralized network. Specialization is more than just an extension or reform of liberal democracy. The interest-driven network as a decision-making form suggests that a political revolution is imminent.
+* **The Distributed Network is a New Form of Democracy:** When decisions are made in digital spaces instead of physical ones, millions of people can participate and vote simultaneously. Digital networks are the prerequisite for creating ED. Decisions are made organically and threaded through a decentralized network. Specialization is more than just an extension or reform of liberal democracy. The interest-driven, distributed network as a form of decision-making suggests that a political evolution is imminent.
 
 ---
 
@@ -248,12 +245,12 @@ The ED app contains a ballot box that can be used to conduct a global referendum
 
 50 percent of eligible voters is just under 3 billion. If three billion download the app and vote, with at least two billion voting yes, the GCC will be established, according to international legal practice. Impossible? Imagine a small snowball rolling down a mountain where the slope, snow depth, and temperature are perfect.
 
-Imagine a small campaign that grows larger exponentially, eventually becoming unprecedented. It echoes in all media from the smallest influencers to the biggest artists, engaging volunteers in all countries who help people install the app and identify themselves. It is not impossible. Therefore, humanity must try to pull itself up by its bootstraps and take responsibility for planet Earth. The question is not just political but existential:
+Imagine a small campaign that grows larger exponentially, eventually becoming unprecedented. It echoes in all media, from the smallest influencers to the biggest artists, engaging volunteers in every country who help people install the app and identify themselves. It is not impossible. Therefore, we must pull humanity up by the bootstraps, give it a brain so it can take responsibility for planet Earth. The question is not just political but existential:
 
 **"Shall we, the citizens of the world, together form a transparent Global Citizens' Council (GCC), governed through Equal Democracy, with the power to enact global laws?"**
 
 We stand at a historical juncture: either continue with our old, dysfunctional systems or create the new world order required for humanity's survival.
 
-**Join the Peaceful Revolution!**
+**Join the Peaceful (R)Evolution!**
 
 It's time to act. Contact your best friends, family, and networks. Together, we can build the app and a future where every voice is heard and every person has the power to change the world. It's not a dream – it's ED. Now it's up to you.

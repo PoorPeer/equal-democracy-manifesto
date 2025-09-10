@@ -14,7 +14,7 @@ What makes Equal Democracy unique? A single word: **Specialization**.
 
 Until now, we've thought that a politician needs opinions on everything. Forget that. In Equal Democracy (ED), each citizen chooses **one single issue per year to specialize in**. The issue you are most passionate about.
 
-Are you passionate about saving the oceans? Then you become part of the global decision-making group for marine environments. Do you burn with passion for education? Then that's where your voice will have significant impact. This changes everything:
+Are you passionate about saving the oceans? Then you become part of the global decision-making group for marine environments. Do you burn with passion for education? Then that's where your voice will have a significant impact. This changes everything:
 
 * **Real Influence:** Your vote becomes a thousand times stronger on the issue you care about most.
 * **Informed Decisions:** Engaged citizens make decisions instead of elected politicians.
@@ -44,23 +44,12 @@ ED is not just technology. We simultaneously embrace people's need to meet and d
 
 ### The Advantages of Equal Democracy
 
-* Direct influence for all adult citizens.
-* Everyone is an equal – there are no superiors.
+* Direct and equal influence for all adult citizens.
 * Provides a strong impact on issues we choose to engage in.
-* Rewards democratic engagement.
-* Can handle urgent global issues faster.
 * All administration is handled digitally via computers.
 * Transparency and fairness through secure digital technology.
 * Benevolent AI makes it simple and user-friendly.
-
-### The Possibilities of the Digital Method
-
-The digital, app-based method makes participation easy – from submitting proposals to making decisions and evaluating the results. The app has two main functions:
-
-* **The Proposal Process:** To develop the best proposals, ensure they are implemented, and evaluate them.
-* **Interactive Budget:** To determine an annual budget that prioritizes between different areas.
-
-Everyone has an equal say, and participation will be simple, educational, and rewarding. The ED app is designed to protect participants' privacy and security. It is not possible to manipulate issues or influence decisions through corruption or coercion.
+* Rewards democratic engagement.
 
 ### Resistance from Representative Democracy
 
@@ -92,17 +81,23 @@ With ED, individuals thus gain greater influence in the issues they care about m
 
 ### II. New Rights in Equal Democracy (ED)
 
-Everyone has the right each year to:
+The digital, app-based method makes participation easy – from submitting proposals to making decisions and evaluating the results. The app has two main workflows: from ideation to implementation, and from budget proposal to median budget. Both processes have several participation points. 
 
-* Choose an area of interest.
-* Submit a proposal on a specific issue.
-* Participate in a discussion.
-* Rank an unlimited number of specific issues.
-* Debate and vote on one specific issue.
-* Submit a budget proposal using the budget calculator.
-* Freely choose which issue they wish to discuss and vote on.
+### **The Proposal Process:** To sort out, test, and evaluate the best proposals before implementation.
+* Develop an idea and submit a proposal
+* Choose an area of expertise
+* Participate in a deliberation
+* Rank an unlimited number of specific issues
+* Debate and vote on one specific issue
 
-These rights give everyone equal influence, while ensuring no one is overburdened.
+  
+### **Interactive Budget:** To determine the annual budget together.
+* Participate in a live budget discussion
+* Submit a budget proposal using the budget calculator
+* Register interest in volunteering
+* Invited to the local democracy party when the median budget is set
+
+These yearly rights give everyone equal influence, while ensuring no one is overburdened.
 
 ### Reward System Increases Participation
 
@@ -114,7 +109,7 @@ Pollars require no banks or energy-consuming crypto mining; they function as pro
 
 ### Anonymity
 
-In the ED app, there are no identifiable individuals – only proposals, arguments, and judgements. Anonymity is used to counteract manipulation, surveillance, and coalition-building, and to protect participants' privacy, allowing them to express their opinions freely. ED reduces the risk of public figures and celebrities gaining undue influence. The app is intended as an intellectual sanctuary where personalities do not influence us, but where rational arguments speak for themselves, and the strength of the ideas, not the people behind them, makes the difference. The system alerts if anonymous posts violate debate rules.
+In the ED app, there are no identifiable individuals – only proposals, arguments, and judgements. Anonymity is used to counteract manipulation, surveillance, and coalition-building and to protect participants' privacy, allowing them to express their opinions freely. ED reduces the risk of public figures and celebrities gaining undue influence. The app is intended as an intellectual sanctuary where personalities do not influence us, but where rational arguments speak for themselves, and the strength of the ideas, not the people behind them, makes the difference. The system alerts if anonymous posts violate debate rules.
 
 ### Openness
 
@@ -132,9 +127,9 @@ The Global Citizens' Council (GCC) supports all non-governmental organizations (
 
 ### Moral Responsibility at the Core
 
-For Equal Democracy (ED) with anonymous participants to be accountable, a simple moral principle lies at its core. Globally, ED initially strives to reduce unnecessary suffering. Morality provides stability and clear direction. It becomes natural to keep in mind when addressing various problems. As measures begin to take effect, the moral can be democratically changed, and thus, ED's fundamental principle can also change. In important internal decisions, such as moral changes, everyone has the right to vote.
+For Equal Democracy (ED) with anonymous participants to be accountable, a simple moral principle lies at its core. Globally, ED strives to reduce unnecessary suffering. It becomes natural to keep in mind when addressing various problems. As measures begin to take effect, the moral can be democratically changed, and thus, ED's fundamental principle can also adjust. In important internal decisions, such as moral changes, everyone has the right to vote.
 
-Morality is limited solely to decisions made through ED. Everyone is free to strive for personal happiness and harmony, and this integrity is respected. The individual may define what happiness is and seek their own well-being, provided that this pursuit does not harm others.
+Morality is limited solely to decisions made through ED. We come together as a collective to protect each other from suffering, and in return, the collective guarantees each individual's right to live their own life. Everyone is free to strive for personal happiness and harmony, and this integrity is respected. The individual may define what happiness is and seek their own well-being, provided that this pursuit does not harm others.
 
 ### Demarcation and Subsidiarity
 

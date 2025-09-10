@@ -69,13 +69,13 @@ The criticism is not directed at those in power but at the inherent divisions in
 
 ### How Can ED Give People Greater Influence?
 
-Here is a thought experiment illustrating how power distribution differs between Equal Democracy (ED), Direct Democracy (DD), and Representative Democracy (RD). Imagine a group of 20 people who need to make decisions on 4 issues:
+Here is a thought experiment illustrating how power distribution differs between Equal Democracy (ED), Direct Democracy (DD), and Representative Democracy (RD). Imagine a group of 10 people who need to make decisions on 10 different issues:
 
-* In **Representative Democracy (RD)**, the people elect a representative (each with 5% of the vote). The voters then have no influence, while the elected representative receives a well-paid position and 100% of the power in all 20 issues.
-* In **Direct Democracy (DD)**, everyone votes on all decisions. They have 5% of the power in each issue. It takes a long time to understand all 20 issues and their arguments, while the influence is small. No one gets paid.
-* In **Equal Democracy (ED)**, everyone chooses one (1) issue they are interested in and knowledgeable about. They gain 20% of the power and can concentrate on this single issue. Additionally, they are paid in proportion to their contributions.
+* In **Representative Democracy (RD)**, the people elect a representative (each with 10% of the vote). Nine of the voters then have no influence, while the elected representative receives a well-paid position and 100% of the power in all 10 issues.
+* In **Direct Democracy (DD)**, everyone votes on all decisions. They have 10% of the power in each issue. It takes a long time to understand all the issues and their arguments, while the influence is small. No one gets paid.
+* In **Equal Democracy (ED)**, everyone chooses one (1) issue they are interested in and knowledgeable about. They gain 100% of the power and can concentrate on this single issue. Additionally, they are paid in proportion to their contributions.
 
-With ED, individuals thus gain greater influence in the issues they care about most. We believe this is how most people want it.
+With ED, individuals thus gain greater influence in the issues they care about most. We believe this is what most people want.
 
 ---
 
